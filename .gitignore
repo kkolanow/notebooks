@@ -1,0 +1,16 @@
+/.idea/inspectionProfiles/profiles_settings.xml
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/.idea/
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/notebooks.iml
+/.idea/vcs.xml
+/.idea/profiles_settings.xml
+
